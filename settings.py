@@ -1,0 +1,3 @@
+MIDDLEWARE += [
+    'hallucination.middleware.AIHallucinationMiddleware'
+]
