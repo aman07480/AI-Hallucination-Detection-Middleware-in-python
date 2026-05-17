@@ -1,0 +1,16 @@
+{
+  "prompt": "What is quantum AI?",
+  "response": "I think this answer is probably correct, but I am not sure.",
+
+  "hallucination_analysis": {
+    "detected": true,
+    "confidence": 40,
+    "matched_words": [
+      "probably",
+      "i think"
+    ],
+    "regex_matches": [
+      "i am not sure"
+    ]
+  }
+}
